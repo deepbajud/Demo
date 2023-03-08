@@ -31,6 +31,19 @@
         android:text="Floating Button"
         android:textSize="30dp"
         android:textStyle="bold" />
+    <Button
+        android:id="@+id/btnnext"
+        android:layout_width="wrap_content"
+        android:backgroundTint="#B795F3"
+        android:layout_marginBottom="100dp"
+        android:layout_gravity="center|bottom"
+        android:layout_marginTop="40dp"
+        android:layout_height="wrap_content"
+
+        android:text="Next"/>
+
+
+
 
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
